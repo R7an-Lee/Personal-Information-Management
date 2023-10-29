@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>MyPIM needs to access the Camera so that you can take a photo.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Face ID or Touch ID is used to authenticate you as the real user of the app!</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>MyPIM needs to obtain your location while taking or picking a photo so that its location can be shown on a map.
+</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Microphone is used to record your voice to create Voice Notes and to record your speech so that it can be converted to text.
+</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>MyPIM needs to access your Photo Library so that you can pick a photo from it.
+</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>MyPIM needs to use Speech Recognition to convert your speech into text.
+</string>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIImageName</key>
+		<string>LaunchImage</string>
+	</dict>
+</dict>
+</plist>
